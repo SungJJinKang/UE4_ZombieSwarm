@@ -14,5 +14,5 @@
 ## References
 
 https://youtu.be/Xu4LO_S7usg    
-http://developer.download.nvidia.com/SDK/10/direct3d/Source/SkinnedInstancing/doc/SkinnedInstancingWhitePaper.pdf
+http://developer.download.nvidia.com/SDK/10/direct3d/Source/SkinnedInstancing/doc/SkinnedInstancingWhitePaper.pdf       
 https://downloads.hindawi.com/journals/ijcgt/2019/1792304.pdf
